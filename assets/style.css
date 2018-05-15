@@ -1,0 +1,51 @@
+body {
+	background: url(../assets/images/bg2.jpg) no-repeat center fixed;
+	-webkit-background-size: cover; /*targets google chrome and safari web browsers*/
+	-moz-background-size: cover; /*targets mozilla*/
+	-o-background-size: cover; /*targets opera*/
+	background-size: cover;
+}
+
+h1 {
+	color: #E9967A;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0; /*not to apply any margin at the bottom*/
+	font-family: 'Great Vibes', cursive;
+}
+
+h3 {
+	font-weight: normal;
+}
+h2 {
+	color: #E9967A;
+	font-size: 22px;
+	margin-top: 0;
+}
+
+.about {
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+.bio {
+	color: #FFE4E1;
+	font-size: 16px;
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.hi {
+	color: white;
+	font-family: 'Marck Script', cursive;
+	font-size: 20px;
+}
